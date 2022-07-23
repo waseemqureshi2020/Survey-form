@@ -5,3 +5,11 @@ input{
 select{
     display: block;
 }
+
+#radio, #checkbox{
+    display: inline-block;
+}
+
+#submit{
+    display: block;
+}
